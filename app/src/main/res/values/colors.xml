@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="miAzul">#1946B5</color>
+    <color name="melocoton">#FEBE98</color>
 </resources>

@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.Actividades" parent="Base.Theme.Actividades" />
+    <style name="miEstiloDeTipografia">
+        <item name="android:textColor">@color/melocoton</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
 </resources>
