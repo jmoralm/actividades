@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Actividades</string>
+    <string name="iv_background">TODO</string>
+    <string name="iv_main_background">Fondo de la pantalla principal</string>
 </resources>
