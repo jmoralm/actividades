@@ -1,5 +1,5 @@
 # ACTIVIDADES
-Repositorio: [](https://github.com/jmoralm/actividades)
+Repositorio: [Repositorio de Actividades](https://github.com/jmoralm/actividades)
 
 A continuación se detalla la documentación de las actividades de Android Studio.
 
