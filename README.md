@@ -7,7 +7,7 @@ Crear un recurso de imagen.
 
 1. Entorno de programación creado: 
 
-![](/Users/josemorillo/Documents/PROYECTOS/Actividades/readmeImages/entorno.png)
+![](readmeImages/entorno.png)
 
 2. Creación de recurso de imagen:
 Se ha añadido una imagen de fondo en la vista main de nuestra app.
