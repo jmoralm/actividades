@@ -25,3 +25,14 @@ Se ha añadido una imagen de fondo en la vista main de nuestra app.
    app:layout_constraintVertical_bias="0.0"
    app:srcCompat="@drawable/iv_main_background" />`
 
+3. Vista del editor visual de nuestra app. 
+
+![](readmeImages/EditorVisual_xml.png)
+
+4. Vista del código xml del imageView
+
+![](readmeImages/codigo_xml.png)
+
+
+
+
